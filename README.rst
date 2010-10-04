@@ -92,13 +92,13 @@ Cuando termine el buildout, podrás ejecutar Plone con el siguiente comando:
     $ bin/instance fg
     
 Esto ejecutará plone en modo ``foreground`` y el sitio estará accesible en 
-http://localhost:8080/
+http://localhost:8086/
 
 
 Configurar Plone
 ~~~~~~~~~~~~~~~~~
 
-Abre en tu navegador la siguiente URL: http://localhost:8080/manage_main. Se te 
+Abre en tu navegador la siguiente URL: http://localhost:8086/manage_main. Se te 
 pedirá un nombre de usuario y contraseña. Por default se ha configurado una 
 cuenta joe_ con el nombre ``admin``.
 
